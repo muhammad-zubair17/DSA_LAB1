@@ -1,0 +1,13 @@
+# Build artifacts
+*.o
+*.obj
+*.exe
+*.pdb
+
+/build/
+/Debug/
+/Release/
+
+# IDE metadata
+.vscode/
+.idea/
